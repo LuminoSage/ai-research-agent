@@ -128,4 +128,4 @@ Open `http://localhost:8501` and ask it something.
 
 ---
 
-Built by [Krish Jain](https://github.com/YOUR_USERNAME) · CS @ Telkom University
+Built by [Krish Jain](https://github.com/YOUR_USERNAME) · CS 
