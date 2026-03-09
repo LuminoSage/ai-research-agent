@@ -1,0 +1,4 @@
+crewai[tools]==1.9.3
+streamlit==1.41.0
+python-dotenv==1.1.1
+litellm
