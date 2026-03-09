@@ -50,7 +50,7 @@ ai-research-agent/
 
 **1. Clone it**
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-research-agent.git
+git clone https://github.com/LuminoSage/ai-research-agent.git
 cd ai-research-agent
 ```
 
